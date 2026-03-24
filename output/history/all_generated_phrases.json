@@ -209,7 +209,37 @@
       "norwegian": "Feil er læringssteg.",
       "category": "Confidence",
       "generated_at": "2026-03-23T21:55:43.578408"
+    },
+    {
+      "english": "Breathe deep, let go.",
+      "norwegian": "Pust dypt, slipp tak.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-24T05:17:20.148999"
+    },
+    {
+      "english": "Find calm, within you.",
+      "norwegian": "Finn ro, inni deg.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-24T05:17:20.149008"
+    },
+    {
+      "english": "Quiet mind, clear soul.",
+      "norwegian": "Stille sinn, ren sjel.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-24T05:17:20.149009"
+    },
+    {
+      "english": "Just be, present now.",
+      "norwegian": "Bare vær, her nå.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-24T05:17:20.149010"
+    },
+    {
+      "english": "Inner peace, starts here.",
+      "norwegian": "Indre fred, starter her.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-24T05:17:20.149011"
     }
   ],
-  "last_updated": "2026-03-23T21:55:43.578410"
+  "last_updated": "2026-03-24T05:17:20.149013"
 }
