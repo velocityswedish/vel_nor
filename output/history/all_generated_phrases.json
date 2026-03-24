@@ -269,7 +269,37 @@
       "norwegian": "Lytt, med ditt hjerte.",
       "category": "Kindness",
       "generated_at": "2026-03-24T17:34:02.631807"
+    },
+    {
+      "english": "You're a great friend, always.",
+      "norwegian": "Du er en god venn, alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-03-24T19:56:39.435713"
+    },
+    {
+      "english": "Let's hang out, soon.",
+      "norwegian": "La oss møtes, snart.",
+      "category": "Friendship",
+      "generated_at": "2026-03-24T19:56:39.435720"
+    },
+    {
+      "english": "Thanks for everything, really.",
+      "norwegian": "Takk for alt, virkelig.",
+      "category": "Friendship",
+      "generated_at": "2026-03-24T19:56:39.435722"
+    },
+    {
+      "english": "We have fun, together.",
+      "norwegian": "Vi har det gøy, sammen.",
+      "category": "Friendship",
+      "generated_at": "2026-03-24T19:56:39.435723"
+    },
+    {
+      "english": "Glad you're here, friend.",
+      "norwegian": "Glad du er her, venn.",
+      "category": "Friendship",
+      "generated_at": "2026-03-24T19:56:39.435724"
     }
   ],
-  "last_updated": "2026-03-24T17:34:02.631808"
+  "last_updated": "2026-03-24T19:56:39.435726"
 }
