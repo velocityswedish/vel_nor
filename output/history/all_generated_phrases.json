@@ -299,7 +299,37 @@
       "norwegian": "Glad du er her, venn.",
       "category": "Friendship",
       "generated_at": "2026-03-24T19:56:39.435724"
+    },
+    {
+      "english": "One step, at a time.",
+      "norwegian": "Ett skritt, om gangen.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-24T21:56:06.713926"
+    },
+    {
+      "english": "Try again, and again.",
+      "norwegian": "Prøv igjen, og igjen.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-24T21:56:06.713933"
+    },
+    {
+      "english": "Mistakes help, you learn.",
+      "norwegian": "Feil hjelper, du lærer.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-24T21:56:06.713934"
+    },
+    {
+      "english": "Slow progress, is still progress.",
+      "norwegian": "Sakte fremgang, er fortsatt fremgang.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-24T21:56:06.713936"
+    },
+    {
+      "english": "You are stronger, than you think.",
+      "norwegian": "Du er sterkere, enn du tror.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-24T21:56:06.713937"
     }
   ],
-  "last_updated": "2026-03-24T19:56:39.435726"
+  "last_updated": "2026-03-24T21:56:06.713938"
 }
