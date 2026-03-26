@@ -479,7 +479,37 @@
       "norwegian": "Gode ting, tar tid.",
       "category": "Patience",
       "generated_at": "2026-03-26T17:39:57.813828"
+    },
+    {
+      "english": "Tomorrow, brings new chances.",
+      "norwegian": "I morgen, gir nye sjanser.",
+      "category": "Hope",
+      "generated_at": "2026-03-26T21:06:19.707936"
+    },
+    {
+      "english": "Keep going, you'll get there.",
+      "norwegian": "Fortsett, du kommer frem.",
+      "category": "Hope",
+      "generated_at": "2026-03-26T21:06:19.707945"
+    },
+    {
+      "english": "A small step, makes progress.",
+      "norwegian": "Et lite skritt, gir fremgang.",
+      "category": "Hope",
+      "generated_at": "2026-03-26T21:06:19.707946"
+    },
+    {
+      "english": "Don't give up, yet.",
+      "norwegian": "Ikke gi opp, ennå.",
+      "category": "Hope",
+      "generated_at": "2026-03-26T21:06:19.707947"
+    },
+    {
+      "english": "Every day, a new start.",
+      "norwegian": "Hver dag, en ny start.",
+      "category": "Hope",
+      "generated_at": "2026-03-26T21:06:19.707949"
     }
   ],
-  "last_updated": "2026-03-26T17:39:57.813830"
+  "last_updated": "2026-03-26T21:06:19.707950"
 }
