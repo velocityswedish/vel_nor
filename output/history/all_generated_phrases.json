@@ -569,7 +569,37 @@
       "norwegian": "Hvilke frø, vil du så?",
       "category": "Confidence",
       "generated_at": "2026-03-27T16:40:07.142884"
+    },
+    {
+      "english": "See the light, in every shade.",
+      "norwegian": "Se lyset, i hver nyanse.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-27T19:33:10.574376"
+    },
+    {
+      "english": "A quiet moment, holds much.",
+      "norwegian": "Et stille øyeblikk, rommer mye.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-27T19:33:10.574389"
+    },
+    {
+      "english": "Your inner sun, can shine through.",
+      "norwegian": "Din indre sol, kan skinne gjennom.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-27T19:33:10.574391"
+    },
+    {
+      "english": "Find joy, in simple things.",
+      "norwegian": "Finn glede, i enkle ting.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-27T19:33:10.574392"
+    },
+    {
+      "english": "A kind word, travels far.",
+      "norwegian": "Et vennlig ord, reiser langt.",
+      "category": "Positive Life",
+      "generated_at": "2026-03-27T19:33:10.574393"
     }
   ],
-  "last_updated": "2026-03-27T16:40:07.142885"
+  "last_updated": "2026-03-27T19:33:10.574395"
 }
