@@ -2489,7 +2489,37 @@
       "norwegian": "Din motstandskraft, en dyp elv.",
       "category": "Strength",
       "generated_at": "2026-04-30T18:06:35.845236"
+    },
+    {
+      "english": "Your fjord awaits, sail forth.",
+      "norwegian": "Din fjord venter, seil ut.",
+      "category": "Motivation",
+      "generated_at": "2026-04-30T20:49:34.361988"
+    },
+    {
+      "english": "Unfold your Norwegian story.",
+      "norwegian": "Brett ut din norske historie.",
+      "category": "Motivation",
+      "generated_at": "2026-04-30T20:49:34.361997"
+    },
+    {
+      "english": "Listen to the mountains, they inspire.",
+      "norwegian": "Lytt til fjellene, de inspirerer.",
+      "category": "Motivation",
+      "generated_at": "2026-04-30T20:49:34.361998"
+    },
+    {
+      "english": "Each word, a seed planted.",
+      "norwegian": "Hvert ord, et frø sådd.",
+      "category": "Motivation",
+      "generated_at": "2026-04-30T20:49:34.362000"
+    },
+    {
+      "english": "Taste the freedom, of fluent phrases.",
+      "norwegian": "Smak på friheten, av flytende ord.",
+      "category": "Motivation",
+      "generated_at": "2026-04-30T20:49:34.362001"
     }
   ],
-  "last_updated": "2026-04-30T18:06:35.845238"
+  "last_updated": "2026-04-30T20:49:34.362002"
 }
