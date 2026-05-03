@@ -2789,7 +2789,37 @@
       "norwegian": "Din stemme blir sterkere.",
       "category": "Confidence",
       "generated_at": "2026-05-03T01:44:00.252302"
+    },
+    {
+      "english": "The mountain path, it winds slow.",
+      "norwegian": "Fjellstien, den snirkler seg sakte.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T14:42:46.583806"
+    },
+    {
+      "english": "Like a seed, just keep growing.",
+      "norwegian": "Som et frø, bare fortsett å gro.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T14:42:46.583815"
+    },
+    {
+      "english": "Each drop, fills the ocean, eventually.",
+      "norwegian": "Hver dråpe, fyller havet, til slutt.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T14:42:46.583816"
+    },
+    {
+      "english": "The quiet hum, of a new day.",
+      "norwegian": "Den stille summingen, av en ny dag.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T14:42:46.583817"
+    },
+    {
+      "english": "Hold on, for the sunrise, soon.",
+      "norwegian": "Hold ut, for soloppgangen, snart.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T14:42:46.583819"
     }
   ],
-  "last_updated": "2026-05-03T01:44:00.252304"
+  "last_updated": "2026-05-03T14:42:46.583820"
 }
