@@ -3209,7 +3209,37 @@
       "norwegian": "Fjellet venter, bestig det.",
       "category": "Confidence",
       "generated_at": "2026-05-06T18:12:05.737214"
+    },
+    {
+      "english": "The longest journey, starts with one curious glance.",
+      "norwegian": "Den lengste reisen, starter med et nysgjerrig blikk.",
+      "category": "Patience",
+      "generated_at": "2026-05-06T21:01:10.103101"
+    },
+    {
+      "english": "Like a seed, wait for your moment to bloom.",
+      "norwegian": "Som et frø, vent på ditt øyeblikk å blomstre.",
+      "category": "Patience",
+      "generated_at": "2026-05-06T21:01:10.103114"
+    },
+    {
+      "english": "This mountain, will reveal its summit eventually.",
+      "norwegian": "Dette fjellet, vil vise sin topp til slutt.",
+      "category": "Patience",
+      "generated_at": "2026-05-06T21:01:10.103115"
+    },
+    {
+      "english": "Steady hands, carve the finest wood.",
+      "norwegian": "Stødige hender, snirker det fineste tre.",
+      "category": "Patience",
+      "generated_at": "2026-05-06T21:01:10.103117"
+    },
+    {
+      "english": "Observe the river, it always finds the sea.",
+      "norwegian": "Observer elven, den finner alltid havet.",
+      "category": "Patience",
+      "generated_at": "2026-05-06T21:01:10.103118"
     }
   ],
-  "last_updated": "2026-05-06T18:12:05.737216"
+  "last_updated": "2026-05-06T21:01:10.103119"
 }
