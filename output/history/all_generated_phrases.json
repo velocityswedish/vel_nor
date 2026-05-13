@@ -4019,7 +4019,37 @@
       "norwegian": "Et fyrtårn, i min storm.",
       "category": "Friendship",
       "generated_at": "2026-05-13T01:54:41.148237"
+    },
+    {
+      "english": "Find your mountain, then climb.",
+      "norwegian": "Finn ditt fjell, klatre så.",
+      "category": "Strength",
+      "generated_at": "2026-05-13T16:19:30.040287"
+    },
+    {
+      "english": "The tide will turn, be ready.",
+      "norwegian": "Tide vil snu, vær klar.",
+      "category": "Strength",
+      "generated_at": "2026-05-13T16:19:30.040295"
+    },
+    {
+      "english": "Listen to the quiet voice.",
+      "norwegian": "Lytt til den stille stemmen.",
+      "category": "Strength",
+      "generated_at": "2026-05-13T16:19:30.040297"
+    },
+    {
+      "english": "Build your own shelter, strong.",
+      "norwegian": "Bygg ditt ly, sterkt.",
+      "category": "Strength",
+      "generated_at": "2026-05-13T16:19:30.040298"
+    },
+    {
+      "english": "The storm passes, stay steady.",
+      "norwegian": "Stormen går, hold kursen.",
+      "category": "Strength",
+      "generated_at": "2026-05-13T16:19:30.040299"
     }
   ],
-  "last_updated": "2026-05-13T01:54:41.148239"
+  "last_updated": "2026-05-13T16:19:30.040301"
 }
