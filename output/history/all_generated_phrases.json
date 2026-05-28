@@ -5249,7 +5249,37 @@
       "norwegian": "Tidevannet snur alltid, husk det.",
       "category": "Forgiveness",
       "generated_at": "2026-05-28T10:12:11.531635"
+    },
+    {
+      "english": "This mountain, I will climb it.",
+      "norwegian": "Dette fjellet, jeg vil bestige det.",
+      "category": "Confidence",
+      "generated_at": "2026-05-28T17:32:53.376224"
+    },
+    {
+      "english": "My compass, it points forward.",
+      "norwegian": "Mitt kompass, det peker fremover.",
+      "category": "Confidence",
+      "generated_at": "2026-05-28T17:32:53.376235"
+    },
+    {
+      "english": "Like a sturdy tree, I stand.",
+      "norwegian": "Som et solid tre, jeg står.",
+      "category": "Confidence",
+      "generated_at": "2026-05-28T17:32:53.376236"
+    },
+    {
+      "english": "The path unfolds, step by step.",
+      "norwegian": "Stien utfolder seg, skritt for skritt.",
+      "category": "Confidence",
+      "generated_at": "2026-05-28T17:32:53.376237"
+    },
+    {
+      "english": "My voice, it has strength.",
+      "norwegian": "Min stemme, den har styrke.",
+      "category": "Confidence",
+      "generated_at": "2026-05-28T17:32:53.376238"
     }
   ],
-  "last_updated": "2026-05-28T10:12:11.531636"
+  "last_updated": "2026-05-28T17:32:53.376240"
 }
