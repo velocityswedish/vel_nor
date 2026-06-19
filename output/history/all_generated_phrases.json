@@ -7889,7 +7889,37 @@
       "norwegian": "Hver anstrengelse, skjerper din kant.",
       "category": "Strength",
       "generated_at": "2026-06-19T02:45:26.114268"
+    },
+    {
+      "english": "See the quiet bloom, unfold.",
+      "norwegian": "Se den stille blomst, spre seg.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-19T16:28:44.494155"
+    },
+    {
+      "english": "Listen to the wind's soft whisper.",
+      "norwegian": "Lytt til vindens lette sus.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-19T16:28:44.494162"
+    },
+    {
+      "english": "Feel the grounding, steady earth.",
+      "norwegian": "Kjenn den jord, så fast.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-19T16:28:44.494164"
+    },
+    {
+      "english": "Watch the cloud drift, slow.",
+      "norwegian": "Se skyen drive, sakte.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-19T16:28:44.494165"
+    },
+    {
+      "english": "Taste the moment, fully now.",
+      "norwegian": "Smak øyeblikket, helt nå.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-19T16:28:44.494166"
     }
   ],
-  "last_updated": "2026-06-19T02:45:26.114269"
+  "last_updated": "2026-06-19T16:28:44.494167"
 }
