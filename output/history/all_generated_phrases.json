@@ -8459,7 +8459,37 @@
       "norwegian": "Brett ut kartet, ett steg.",
       "category": "Confidence",
       "generated_at": "2026-06-23T21:21:52.881018"
+    },
+    {
+      "english": "The sun rises, you can too.",
+      "norwegian": "Sola står opp, du kan også.",
+      "category": "Success",
+      "generated_at": "2026-06-24T02:00:01.942631"
+    },
+    {
+      "english": "Each day, a new fjord opens.",
+      "norwegian": "Hver dag, en ny fjord åpner seg.",
+      "category": "Success",
+      "generated_at": "2026-06-24T02:00:01.942640"
+    },
+    {
+      "english": "The path ahead, a gentle climb.",
+      "norwegian": "Veien videre, en mild stigning.",
+      "category": "Success",
+      "generated_at": "2026-06-24T02:00:01.942641"
+    },
+    {
+      "english": "Like a seed, your potential sleeps.",
+      "norwegian": "Som et frø, ditt potensial sover.",
+      "category": "Success",
+      "generated_at": "2026-06-24T02:00:01.942643"
+    },
+    {
+      "english": "Listen to the river's flow.",
+      "norwegian": "Lytt til elvens brus.",
+      "category": "Success",
+      "generated_at": "2026-06-24T02:00:01.942644"
     }
   ],
-  "last_updated": "2026-06-23T21:21:52.881019"
+  "last_updated": "2026-06-24T02:00:01.942645"
 }
