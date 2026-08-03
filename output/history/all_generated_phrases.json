@@ -11369,7 +11369,37 @@
       "norwegian": "Håpet kommer tilbake, som lys, etter regn.",
       "category": "Hope",
       "generated_at": "2026-08-02T20:41:08.772574"
+    },
+    {
+      "english": "I can map this road, one stop at a time",
+      "norwegian": "Jeg kan kartlegge denne veien, ett stopp om gangen",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T01:27:51.821106"
+    },
+    {
+      "english": "Today, my feet learn the rhythm",
+      "norwegian": "I dag, lærer føttene mine rytmen",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T01:27:51.821117"
+    },
+    {
+      "english": "My voice is steady, even when I pause",
+      "norwegian": "Stemmen min er rolig, selv når jeg pauser",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T01:27:51.821119"
+    },
+    {
+      "english": "I ask, I listen, then I respond",
+      "norwegian": "Jeg spør, jeg lytter, så svarer jeg",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T01:27:51.821120"
+    },
+    {
+      "english": "I build courage, with ordinary minutes",
+      "norwegian": "Jeg bygger mot, med vanlige minutter",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T01:27:51.821121"
     }
   ],
-  "last_updated": "2026-08-02T20:41:08.772576"
+  "last_updated": "2026-08-03T01:27:51.821123"
 }
