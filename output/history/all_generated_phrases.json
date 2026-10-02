@@ -18479,7 +18479,37 @@
       "norwegian": "Feil er kart, ikke steder som mangler",
       "category": "Confidence",
       "generated_at": "2026-10-01T23:31:42.621421"
+    },
+    {
+      "english": "Notice your breath, gently, right now",
+      "norwegian": "Legg merke til pusten, rolig, akkurat nå",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T02:50:57.894152"
+    },
+    {
+      "english": "Feel your feet, on the floor, today",
+      "norwegian": " kjenn føttene dine, mot gulvet, i dag",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T02:50:57.894162"
+    },
+    {
+      "english": "Let thoughts pass by, like clouds",
+      "norwegian": "La tankene gli forbi, som skyer",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T02:50:57.894164"
+    },
+    {
+      "english": "Hear the room, softly, without chasing",
+      "norwegian": "Hør rommet, stille, uten å jage",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T02:50:57.894166"
+    },
+    {
+      "english": "Relax your shoulders, as you exhale",
+      "norwegian": "Slapp av i skuldrene, mens du puster ut",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T02:50:57.894167"
     }
   ],
-  "last_updated": "2026-10-01T23:31:42.621423"
+  "last_updated": "2026-10-02T02:50:57.894169"
 }
