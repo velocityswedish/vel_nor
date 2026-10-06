@@ -19019,7 +19019,37 @@
       "norwegian": "Jeg snakker sakte, så treffer meningen.",
       "category": "Confidence",
       "generated_at": "2026-10-06T19:15:00.246630"
+    },
+    {
+      "english": "Morning coffee waits, I choose kindness today",
+      "norwegian": "Morgenkaffen venter, jeg velger vennlighet i dag",
+      "category": "Purpose",
+      "generated_at": "2026-10-06T21:25:03.216047"
+    },
+    {
+      "english": "Street noise fades, my focus returns calmly",
+      "norwegian": "Gatebråket dempes, oppmerksomheten min kommer rolig tilbake",
+      "category": "Purpose",
+      "generated_at": "2026-10-06T21:25:03.216056"
+    },
+    {
+      "english": "I plan my day, like maps on paper",
+      "norwegian": "Jeg planlegger dagen, som kart på papir",
+      "category": "Purpose",
+      "generated_at": "2026-10-06T21:25:03.216057"
+    },
+    {
+      "english": "My phone can wait, I breathe and notice",
+      "norwegian": "Telefonen kan vente, jeg puster og legger merke til",
+      "category": "Purpose",
+      "generated_at": "2026-10-06T21:25:03.216058"
+    },
+    {
+      "english": "Lunch break resets me, then I begin again",
+      "norwegian": "Lunsjpausen nullstiller meg, så begynner jeg igjen",
+      "category": "Purpose",
+      "generated_at": "2026-10-06T21:25:03.216059"
     }
   ],
-  "last_updated": "2026-10-06T19:15:00.246632"
+  "last_updated": "2026-10-06T21:25:03.216061"
 }
