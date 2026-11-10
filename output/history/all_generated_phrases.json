@@ -22439,7 +22439,42 @@
       "norwegian": "Hold fast, veien blir tydelig.",
       "category": "Patience",
       "generated_at": "2026-11-10T05:01:14.146719"
+    },
+    {
+      "english": "I can do this, even scared.",
+      "norwegian": "Jeg kan klare dette, selv om jeg er redd.",
+      "transliteration": "jeg kan kla-re det-te, selv om jeg er redd",
+      "category": "Courage",
+      "generated_at": "2026-11-10T09:23:27.506361"
+    },
+    {
+      "english": "I breathe in, then I act.",
+      "norwegian": "Jeg puster inn, så handler jeg.",
+      "transliteration": "jeg puster inn, så han-dler jeg",
+      "category": "Courage",
+      "generated_at": "2026-11-10T09:23:27.506379"
+    },
+    {
+      "english": "My heart races, I try anyway.",
+      "norwegian": "Hjertet mitt løper, jeg prøver likevel.",
+      "transliteration": "hjer-tet mitt lø-per, jeg prø-ver like-vel",
+      "category": "Courage",
+      "generated_at": "2026-11-10T09:23:27.506381"
+    },
+    {
+      "english": "I say it, voice or no voice.",
+      "norwegian": "Jeg sier det, med eller uten stemme.",
+      "transliteration": "jeg sier det, med el-ler u-ten stem-me",
+      "category": "Courage",
+      "generated_at": "2026-11-10T09:23:27.506382"
+    },
+    {
+      "english": "I don’t wait for courage, I move.",
+      "norwegian": "Jeg venter ikke på mot, jeg går.",
+      "transliteration": "jeg ven-ter ikke på mot, jeg går",
+      "category": "Courage",
+      "generated_at": "2026-11-10T09:23:27.506383"
     }
   ],
-  "last_updated": "2026-11-10T05:01:14.146720"
+  "last_updated": "2026-11-10T09:23:27.506385"
 }
