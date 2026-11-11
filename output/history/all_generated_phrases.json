@@ -22579,7 +22579,42 @@
       "transliteration": "Kjenn ryggen rette seg, litt",
       "category": "Mindfulness",
       "generated_at": "2026-11-10T22:00:47.751032"
+    },
+    {
+      "english": "Thank you for your help today.",
+      "norwegian": "Takk for hjelpen din i dag.",
+      "transliteration": "Takk for hjelpen din i dag",
+      "category": "Gratitude",
+      "generated_at": "2026-11-11T00:22:42.316389"
+    },
+    {
+      "english": "I’m grateful for your patient smile.",
+      "norwegian": "Jeg er takknemlig for det tålmodige smilet ditt.",
+      "transliteration": "Jeg er takknemlig for det tålmodige smilet ditt",
+      "category": "Gratitude",
+      "generated_at": "2026-11-11T00:22:42.316421"
+    },
+    {
+      "english": "Thanks for the little things today.",
+      "norwegian": "Takk for de små tingene i dag.",
+      "transliteration": "Takk for de små tingene i dag",
+      "category": "Gratitude",
+      "generated_at": "2026-11-11T00:22:42.316425"
+    },
+    {
+      "english": "Your words warmed me, thank you.",
+      "norwegian": "Ordene dine varmet meg, takk.",
+      "transliteration": "Ordene dine varmet meg, takk",
+      "category": "Gratitude",
+      "generated_at": "2026-11-11T00:22:42.316428"
+    },
+    {
+      "english": "I feel thankful for safe streets.",
+      "norwegian": "Jeg er takknemlig for trygge gater.",
+      "transliteration": "Jeg er takknemlig for trygge gater",
+      "category": "Gratitude",
+      "generated_at": "2026-11-11T00:22:42.316431"
     }
   ],
-  "last_updated": "2026-11-10T22:00:47.751034"
+  "last_updated": "2026-11-11T00:22:42.316435"
 }
