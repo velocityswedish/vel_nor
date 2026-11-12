@@ -22894,7 +22894,42 @@
       "transliteration": "Svar senere, akkurat nå fokuser.",
       "category": "Success",
       "generated_at": "2026-11-12T19:33:29.394407"
+    },
+    {
+      "english": "Say hi, and mean it today.",
+      "norwegian": "Si hei, og mene det i dag.",
+      "transliteration": "Si hai, og mene det i dag",
+      "category": "Kindness",
+      "generated_at": "2026-11-12T21:21:51.420687"
+    },
+    {
+      "english": "You go first, no need to rush.",
+      "norwegian": "Du går først, du trenger ikke haste.",
+      "transliteration": "Du går først, du trengar ikke haste",
+      "category": "Kindness",
+      "generated_at": "2026-11-12T21:21:51.420703"
+    },
+    {
+      "english": "Here, take my place for a moment.",
+      "norwegian": "Vær så snill, ta plassen min et øyeblikk.",
+      "transliteration": "Vær så snill, ta plassen min et øyeblikk",
+      "category": "Kindness",
+      "generated_at": "2026-11-12T21:21:51.420704"
+    },
+    {
+      "english": "That’s okay, we’ll manage together.",
+      "norwegian": "Det går bra, vi klarer det sammen.",
+      "transliteration": "Det går bra, vi klarer det sammen",
+      "category": "Kindness",
+      "generated_at": "2026-11-12T21:21:51.420705"
+    },
+    {
+      "english": "Thank you, that was really helpful.",
+      "norwegian": "Takk, det var virkelig hjelpsomt.",
+      "transliteration": "Takk, det var virkelig hjelpsomt",
+      "category": "Kindness",
+      "generated_at": "2026-11-12T21:21:51.420706"
     }
   ],
-  "last_updated": "2026-11-12T19:33:29.394409"
+  "last_updated": "2026-11-12T21:21:51.420708"
 }
