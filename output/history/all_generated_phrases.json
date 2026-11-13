@@ -22964,7 +22964,42 @@
       "transliteration": "Jeg sender håp til meg selv, og puster.",
       "category": "Hope",
       "generated_at": "2026-11-12T22:29:24.098630"
+    },
+    {
+      "english": "Say the word, then smile at yourself.",
+      "norwegian": "Si ordet, og smil til deg selv.",
+      "transliteration": "Si oret, og smil til deg selv.",
+      "category": "Growth",
+      "generated_at": "2026-11-13T00:51:31.977629"
+    },
+    {
+      "english": "I choose one verb, and use it.",
+      "norwegian": "Jeg velger ett verb, og bruker det.",
+      "transliteration": "Je velger ett verb, og bruker det.",
+      "category": "Growth",
+      "generated_at": "2026-11-13T00:51:31.977643"
+    },
+    {
+      "english": "Read it once, then repeat it clearly.",
+      "norwegian": "Les det én gang, så gjenta tydelig.",
+      "transliteration": "Les det en gang, sa gjenta tydelig.",
+      "category": "Growth",
+      "generated_at": "2026-11-13T00:51:31.977645"
+    },
+    {
+      "english": "I tap my notebook, focus, start speaking.",
+      "norwegian": "Jeg tapper notatboka, fokuser, begynn å snakke.",
+      "transliteration": "Je tapper notatboka, fokuser, begynn a snakke.",
+      "category": "Growth",
+      "generated_at": "2026-11-13T00:51:31.977647"
+    },
+    {
+      "english": "When I forget, I nod and continue.",
+      "norwegian": "Når jeg glemmer, nikker jeg og fortsetter.",
+      "transliteration": "Nar je glemmer, nikker je og fortsetter.",
+      "category": "Growth",
+      "generated_at": "2026-11-13T00:51:31.977648"
     }
   ],
-  "last_updated": "2026-11-12T22:29:24.098633"
+  "last_updated": "2026-11-13T00:51:31.977650"
 }
