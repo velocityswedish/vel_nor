@@ -23104,7 +23104,42 @@
       "transliteration": "velg en farge, og bestem deg",
       "category": "Creativity",
       "generated_at": "2026-11-14T18:58:48.809369"
+    },
+    {
+      "english": "I believe I can, one step now.",
+      "norwegian": "Jeg tror jeg kan, ett skritt nå.",
+      "transliteration": "jæi tror je kan, ett skritt nå",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T19:37:41.919810"
+    },
+    {
+      "english": "My nerves can wait, I speak anyway.",
+      "norwegian": "Nervene kan vente, jeg snakker likevel.",
+      "transliteration": "nervene kan vente, je snakker likevel",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T19:37:41.919823"
+    },
+    {
+      "english": "I’ll slow down, then start over.",
+      "norwegian": "Jeg senker farten, så begynner jeg igjen.",
+      "transliteration": "je senker farten, så begynner je igjen",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T19:37:41.919825"
+    },
+    {
+      "english": "I’m allowed to be unsure, still.",
+      "norwegian": "Jeg har lov til å være usikker, likevel.",
+      "transliteration": "je har lov til å være usikker, likevel",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T19:37:41.919826"
+    },
+    {
+      "english": "I take a breath, and continue.",
+      "norwegian": "Jeg tar et pust, og fortsetter.",
+      "transliteration": "je tar et pust, og fortsetter",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T19:37:41.919827"
     }
   ],
-  "last_updated": "2026-11-14T18:58:48.809371"
+  "last_updated": "2026-11-15T19:37:41.919829"
 }
