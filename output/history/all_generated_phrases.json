@@ -23209,7 +23209,42 @@
       "transliteration": "ye va-sker hen-de-ne, be-ky-mring-e-ne for-svin-ner",
       "category": "Joy",
       "generated_at": "2026-11-17T22:05:14.012515"
+    },
+    {
+      "english": "Wait a bit, it will work out.",
+      "norwegian": "Vent litt, det ordner seg.",
+      "transliteration": "Vent lit, de ordner seg.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T21:44:31.269058"
+    },
+    {
+      "english": "Be patient, good things take time.",
+      "norwegian": "Vær tålmodig, gode ting tar tid.",
+      "transliteration": "Vær tålmodig, gode ting tar tid.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T21:44:31.269070"
+    },
+    {
+      "english": "Take your time, there’s no rush.",
+      "norwegian": "Ta deg god tid, det er ingen hast.",
+      "transliteration": "Ta deg go ti, det er ingen hast.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T21:44:31.269071"
+    },
+    {
+      "english": "Keep calm, answers come stepwise.",
+      "norwegian": "Hold deg rolig, svar kommer litt etter litt.",
+      "transliteration": "Hold deg rolig, svar kommer litt etter litt.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T21:44:31.269072"
+    },
+    {
+      "english": "Don’t force it, let it settle.",
+      "norwegian": "Ikke press, la det sette seg.",
+      "transliteration": "Ikke press, la det sette seg.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T21:44:31.269074"
     }
   ],
-  "last_updated": "2026-11-17T22:05:14.012517"
+  "last_updated": "2026-11-18T21:44:31.269075"
 }
