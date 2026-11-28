@@ -23566,7 +23566,28 @@
       "transliteration": "La fottene dine ta deg videre.",
       "category": "Self Improvement",
       "generated_at": "2026-11-27T19:22:41.030325"
+    },
+    {
+      "english": "Hi, where is the bus stop?",
+      "norwegian": "Hei, hvor er busstoppet?",
+      "transliteration": "Hèi, vær er bu:s-top-pet",
+      "category": "Travel",
+      "generated_at": "2026-11-28T07:59:34.742729"
+    },
+    {
+      "english": "How much is a ticket to Bergen?",
+      "norwegian": "Hva koster billetten til Bergen?",
+      "transliteration": "Va kos-ter bil-jet-ten til ber-gen",
+      "category": "Travel",
+      "generated_at": "2026-11-28T07:59:34.742742"
+    },
+    {
+      "english": "Is there a pharmacy near here?",
+      "norwegian": "Finnes det et apotek i nærheten?",
+      "transliteration": "Fin-nes det et a-po-tek i nær-het-en",
+      "category": "Travel",
+      "generated_at": "2026-11-28T07:59:34.742744"
     }
   ],
-  "last_updated": "2026-11-27T19:22:41.030326"
+  "last_updated": "2026-11-28T07:59:34.742746"
 }
